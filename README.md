@@ -1,4 +1,5 @@
 # First Java and Excel Project
+
 ### Tech Stack: Java, Microsoft Excel, Word Document
 
 This project was completed as part of the CSE1341 course at Southern Methodist University. It involves:
@@ -12,7 +13,7 @@ This project was completed as part of the CSE1341 course at Southern Methodist U
 - **File**: `FirstProgram.java`
 - This is a simple introductory Java program aimed at verifying the Java Development Kit (JDK) installation.
 - We explored basic syntax by intentionally creating and correcting an error.
-  
+
 ### Part 2: Productivity Software (Excel Analysis)
 1. **Salary Comparison**:
    - Compared a salaried position at $80,000/year to an hourly contractor position at $70/hour.
@@ -36,3 +37,7 @@ This project was completed as part of the CSE1341 course at Southern Methodist U
   ```bash
   javac FirstProgram.java
   java FirstProgram
+  ```
+
+## Author
+- **Harley Gribble** (49089358)
